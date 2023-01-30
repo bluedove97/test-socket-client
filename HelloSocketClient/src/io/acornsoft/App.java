@@ -13,9 +13,9 @@ public class App {
 	public static void main(String[] args) {
 		
 
-		logger.info("* * * * * * * * * * * * * * * * * * *");
+		logger.info("* * * * * * * * * * * * * * * * * * * *");
 		logger.info("* Socket Application Client Process Start");
-		logger.info("* * * * * * * * * * * * * * * * * * *");
+		logger.info("* * * * * * * * * * * * * * * * * * * *");
 		
 		try {
 			if(args!=null && args.length > 0) {
